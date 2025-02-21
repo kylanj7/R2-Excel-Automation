@@ -1,4 +1,4 @@
-EXCEL FORMULAS FOR ITAD SHEETS
+EXCEL FORMULAS FOR IT-ASSET MANAGEMENT SHEETS
 
 These formulas are intended to automate and simplify the R2 documentation process while upholding meticulous documentation standards. 
 
