@@ -1,4 +1,4 @@
-EXCEL FORMULAS FOR IT-ASSET MANAGEMENT SHEETS
+EXCEL FORMULAS FOR R2 IT-ASSET MANAGEMENT SHEETS
 
 These formulas are intended to automate and simplify the R2 documentation process while upholding meticulous documentation standards. 
 
@@ -12,15 +12,15 @@ AD2 SPECIALTY ELECTRONICS EXCEL FORMULAS
 
 DATE:
 
-=INDEX('[A.C.2-F Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!A:A,MATCH(F169,'[A.C.2-F Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!E:E,0))
+=INDEX('[Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!A:A,MATCH(F169,'[Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!E:E,0))
 
 PN: 
 
-=INDEX('[A.C.2-F Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!C:C,MATCH(F169,'[A.C.2-F Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!E:E,0))
+=INDEX('[Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!C:C,MATCH(F169,'[Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!E:E,0))
 
 Serial:
 
-=INDEX('[A.C.2-F Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!D:D,MATCH(F169,'[A.C.2-F Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!E:E,0))
+=INDEX('[Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!D:D,MATCH(F169,'[Testing Quality Control Log 1.7.xlsx]Incoming Device Log'!E:E,0))
 
 SALES LOG EXCEL FORMULAS
 
